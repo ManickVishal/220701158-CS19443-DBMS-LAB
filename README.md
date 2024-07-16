@@ -1,2 +1,2 @@
 # 220701158-CS19443-DBMS-LAB
-DBMS Record
+Database Management System
